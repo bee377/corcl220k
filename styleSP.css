@@ -1,0 +1,52 @@
+body
+  {
+    color: #131313;
+    font-family:'Oswald', sans-serif;
+  }
+
+h1
+    {
+      color:#F1F1F1;
+      font-family:'Oswald', sans-serif;
+      text-align: center;
+    }
+
+h3
+    {
+      font-size: 2rem;
+      line-height: 2
+    }
+
+.txtIzq {text-align: left;}
+
+.txtCentrado {text-align: center;}
+
+.txtDer {text-align: right;}
+
+.espEncuesta
+{
+  /*background-color: #E8EF85;
+  background-color: #F1F6A8;*/
+  font-family: 'Oswald', sans-serif;
+  color: #523906;
+  padding: 30px;
+}
+
+#questTabl
+{
+  font-size: 1.3rem;
+  line-height: 2.5;
+
+  font-family: 'Oswald', sans-serif;
+}
+
+.resultds
+{
+  padding:5px;
+}
+
+.subBtn
+{
+    font-size: 1.5rem;
+
+}

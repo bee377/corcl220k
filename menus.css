@@ -1,0 +1,13 @@
+body
+{
+  background-color: #cdb30c;
+}
+
+.imgM
+{
+  position: inline-block;
+  border-radius: 50%;
+  width: 100%;;
+  height:100%;
+
+}

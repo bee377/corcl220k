@@ -1,0 +1,70 @@
+body
+  {
+    color: #131313;
+    font-family: 'Nanum Gothic Coding', monospace;
+  }
+
+h1
+    {
+      color:#F1F1F1;
+      font-family: 'Black Han Sans', sans-serif;
+      text-align: center;
+    }
+
+h3
+    {
+      font-size: 2.2rem;
+      line-height: 2;
+      letter-spacing: 1px;
+    }
+
+.txtIzq {text-align: left;}
+
+.txtCentrado {text-align: center;}
+
+.txtDer {text-align: right;}
+
+.espEncuesta
+{
+  /*background-color: #E8EF85;
+  background-color: #F1F6A8;*/
+  font-family: 'Black Han Sans', sans-serif;
+  color: #f1f1f1;
+  padding: 80px;
+}
+
+#questTabl
+{
+  font-size: 1.5rem;
+  line-height: 2.5;
+  letter-spacing: 1px;
+  font-family: 'Jua', sans-serif;
+}
+
+.resultds
+{
+  padding:5px;
+}
+
+.subBtn
+{
+    font-size: 1.5rem;
+
+}
+
+.descripciones
+  {
+    padding:80px;
+    line-height: 10 px;
+  }
+
+  h1:hover
+  {
+    color: red;
+  }
+
+  td.hover
+  {
+    color: red;
+    font-size: 3rem;
+  }
